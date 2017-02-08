@@ -1,0 +1,11 @@
+1. Update model
+	- Update all out-of-date parts
+	- Update mass properties
+	- Add properties
+		-
+	- Save part
+	- Automatically add size properties
+
+2. Add ini file
+
+3.

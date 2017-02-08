@@ -1,0 +1,9 @@
+1. Update model
+	- Background update
+	- Set sheet scale to scale property
+	
+2. Automaticaly create laser files
+
+3. Add ini file
+
+4.

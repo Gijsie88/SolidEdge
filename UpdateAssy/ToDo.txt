@@ -1,0 +1,12 @@
+1. Update model
+	- Update all out-of-date parts
+	- Update mass properties
+	- Add properties
+		- Weld
+		- Assy
+		- IP (internal production)
+	- Save part
+
+2. Add ini file
+
+3.

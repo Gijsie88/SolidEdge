@@ -1,0 +1,12 @@
+1. Open revision manager
+	- Rename to -S.R.
+	- Move to "vervallen" folder
+	- Make copy to new revision
+	- Set properties
+	- Copy all related parts
+	
+2. Selection of sub parts/assys
+	- Ask user to select all parts for revision
+	
+3. Property file
+	- Set everything in .ini file to reuse macro in other envoirment
