@@ -1,0 +1,46 @@
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\bin\Debug\selcount.exe.config
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\bin\Debug\selcount.exe
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\bin\Debug\selcount.pdb
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\bin\Debug\selcount.xml
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\selcount.vbprojResolveAssemblyReference.cache
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.InsightConnect.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.RevisionManager.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SEInstallDataLib.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SEPARTXLib.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgeAssembly.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgeConstants.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgeDraft.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgeFileProperties.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgeFramework.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgeFrameworkSupport.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgeGeometry.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgePart.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgeScreenCapture.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.SolidEdgeWebParts.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\Interop.StructureEditor.dll
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\selcount.vbproj.ResolveComReference.cache
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\selcount.Resources.resources
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\selcount.vbproj.GenerateResource.Cache
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\selcount.exe
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\selcount.xml
+c:\users\gijs\documents\visual studio 2015\Projects\selcount\obj\Debug\selcount.pdb
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\bin\Debug\selcount.exe.config
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.InsightConnect.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.RevisionManager.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SEInstallDataLib.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SEPARTXLib.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgeAssembly.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgeConstants.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgeDraft.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgeFileProperties.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgeFramework.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgeFrameworkSupport.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgeGeometry.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgePart.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgeScreenCapture.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.SolidEdgeWebParts.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\Interop.StructureEditor.dll
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\selcount.vbproj.ResolveComReference.cache
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\selcount.exe
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\selcount.xml
+C:\Users\gijs\Documents\GitHub\SolidEdge\selcount\obj\Debug\selcount.pdb
